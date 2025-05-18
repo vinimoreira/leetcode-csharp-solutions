@@ -28,11 +28,6 @@ The problems are grouped based on their primary data structures or algorithmic a
 - **Dynamic Programming**: Problems solved using dynamic programming techniques.
 - **Graphs, Trees, Backtracking, etc.** (to be added as I progress).
 
-## Progress Tracker
-
-| Problem Name                              | Difficulty | Status  | Link                           |
-|---------------------                      |------------|---------|--------------------------      |
-| Reverse Words in a String III             | Easy       | Solved  | [Code](string/ReverseWords.cs) |
 
 ## How to Use
 
