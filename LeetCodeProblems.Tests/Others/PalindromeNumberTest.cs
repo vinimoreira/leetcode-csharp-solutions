@@ -17,6 +17,7 @@ namespace LeetCodeProblems.Tests.Others
             Assert.Equal(expected, result);
         }
 
+        [Fact]
         public void Validate_IsPalindomer_Example2()
         {
             var solution = new PalindromeNumber();
@@ -28,6 +29,7 @@ namespace LeetCodeProblems.Tests.Others
             Assert.Equal(expected, result);
         }
 
+        [Fact]
         public void Validate_IsPalindomer_Exampl32()
         {
             var solution = new PalindromeNumber();

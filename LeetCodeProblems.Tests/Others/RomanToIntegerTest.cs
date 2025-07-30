@@ -17,6 +17,7 @@ namespace LeetCodeProblems.Tests.Others
             Assert.Equal(expected, result);
         }
 
+        [Fact]
         public void RomanToInt_InputLVIII_Returns58()
         {
             var solution = new RomanToInteger();
@@ -28,6 +29,7 @@ namespace LeetCodeProblems.Tests.Others
             Assert.Equal(expected, result);
         }
 
+        [Fact]
         public void RomanToInt_InputMCMXCIV_Returns1994()
         {
             var solution = new RomanToInteger();

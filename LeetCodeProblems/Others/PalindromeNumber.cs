@@ -15,7 +15,7 @@ namespace LeetCodeProblems.Others
 
             string numberString = x.ToString();
 
-            int j = (numberString.Length - 1);
+            int j = numberString.Length - 1;
             for (int i = 0; i < numberString.Length; i++)
             {
                 if (numberString[i] != numberString[j])
