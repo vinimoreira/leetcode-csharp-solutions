@@ -1,5 +1,3 @@
-using System.Text;
-
 namespace LeetCodeProblems.Others;
 
 public class FindIndexOfFirstOccurrenceInAString

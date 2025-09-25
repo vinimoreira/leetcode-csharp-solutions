@@ -1,6 +1,3 @@
-using System;
-
-
 namespace LeetCodeProblems.Arrays
 {
     // Problem: Two Sum

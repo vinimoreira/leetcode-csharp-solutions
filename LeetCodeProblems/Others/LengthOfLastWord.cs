@@ -1,5 +1,3 @@
-using System;
-
 namespace LeetCodeProblems.Others;
 
 public class LengthOfLastWord
